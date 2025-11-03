@@ -1,6 +1,6 @@
 # FinalProjectNeuroAI
 ## Objective
-Exploring Hopfields’ associative memory with Hebbian Learning on Cat & Dog Images. \\
+Exploring Hopfields’ associative memory with Hebbian Learning on Cat & Dog Images.\
 In this project, we used a base model Hopfield Network using hebbian learning to store dog and cat patterns. There were several things tried out: 
 - The amount of neurons (nodes)
 - Binarizing the image or not.
